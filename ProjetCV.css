@@ -2,7 +2,7 @@
     width: 80%;
     margin: auto;
     color: white;
-    background-color: #0e7027;
+    background-color: dimgray;
 }
 
 #etatCivil {
@@ -14,10 +14,25 @@
     background-color: gray ;
     padding: 2px;
 }
+#photo{
+    background-color: white;
+
+    float: right;
+    background: url("Benoit_Carpentier.jpg");
+    background-size: cover;
+    width: 25vw;
+    height: 25vw;
+}
+
+#onClick{
+    width: 20%;
+    font-size: 3vw;
+    display: inline;
+}
+
 .titres {
     background-color: darkblue;
     font-style: italic;
-    text-align: center;
 }
 .dates, .noms {
     float: left;
@@ -38,6 +53,7 @@
 
  body {
      background-color: black;
+     font-size: 1.5vw;
  }
 
 h1 {
@@ -45,11 +61,8 @@ h1 {
  }
 h2 {
     font-size: 3vw;
+    text-align: center;
 }
-img {
-    float: right;
-    max-height: 25vw;
-}
-div {
-
+li {
+    width: 80%;
 }
