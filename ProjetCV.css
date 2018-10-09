@@ -1,4 +1,39 @@
 #pageEntiere {
     width: 80%;
     margin: auto;
+    color: white;
+    background-color: darkorange;
+
+}
+#photo {
+    float: right;
+}
+
+#etatCivil {
+    background-color: dimgray ;
+    width: 70%;
+    padding: 20px;
+
+}
+#Liens {
+    background-color: gray ;
+    padding: 2px;
+}
+.titres {
+    background-color: darkblue;
+
+    text-align: center;
+}
+.dates, .noms {
+    float: left;
+    background-color: dimgray ;
+    margin: auto;
+
+}
+.dates {
+    width: 25%;
+    text-align: center;
+}
+.noms {
+    width: 75%;
 }
