@@ -5,7 +5,7 @@
       <paths name="files.000webhost.com">
         <serverdata>
           <mappings>
-            <mapping deploy="ProjetCV" local="$PROJECT_DIR$" web="/ProjetCV" />
+            <mapping deploy="/ProjetCV" local="$PROJECT_DIR$" web="/ProjetCV" />
           </mappings>
         </serverdata>
       </paths>
