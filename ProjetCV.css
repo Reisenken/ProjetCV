@@ -2,18 +2,13 @@
     width: 80%;
     margin: auto;
     color: white;
-    background-color: darkorange;
-
-}
-#photo {
-    float: right;
+    background-color: #0e7027;
 }
 
 #etatCivil {
-    background-color: dimgray ;
+    background-color: midnightblue;
     width: 70%;
     padding: 20px;
-
 }
 #Liens {
     background-color: gray ;
@@ -21,7 +16,7 @@
 }
 .titres {
     background-color: darkblue;
-
+    font-style: italic;
     text-align: center;
 }
 .dates, .noms {
@@ -31,9 +26,30 @@
 
 }
 .dates {
-    width: 25%;
+    width: 20%;
     text-align: center;
 }
 .noms {
-    width: 75%;
+    width: 80%;
+}
+ .listeLoisirs {
+     text-align: center;
+ }
+
+ body {
+     background-color: black;
+ }
+
+h1 {
+     font-size: 5vw;
+ }
+h2 {
+    font-size: 3vw;
+}
+img {
+    float: right;
+    max-height: 25vw;
+}
+div {
+
 }
